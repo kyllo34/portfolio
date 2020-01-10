@@ -552,8 +552,8 @@ button,
 
         #main > section.one {
             background-color: #81918E;
-            /* Photo by Shot by Cerqueira on Unsplash */
-            background-image: url("../../images/banner.jpg");
+            /* Photo by eberhard grossgasteiger on Unsplash */
+            background-image: url("/assets/css/images/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg");
         }
 
         #main > section.two {
